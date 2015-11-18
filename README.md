@@ -1,0 +1,1 @@
+# detectmobile.php
